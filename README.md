@@ -38,7 +38,7 @@
 <p align="">
  <a href="https://pradhanJiCoder.bio.link/" target="_blank"><img alt="" src="https://img.shields.io/badge/Bio.Link-000?logo=biolink&logoColor=12&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://pradhanJiCoder-portfolio-one.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://pradhanJiCoder.hashnode.dev/" target="_blank"><img alt="" src="https://img.shields.io/badge/Blogs-000?logo=hashnode&logoColor=blue&style=for-the-badge" style="vertical-align:center-width:300px" /></a></p>
+<a href="https://hashnode.com/@pradhanJiCoder" target="_blank"><img alt="" src="https://img.shields.io/badge/Blogs-000?logo=hashnode&logoColor=blue&style=for-the-badge" style="vertical-align:center-width:300px" /></a></p>
 
 
 ## 🌐 Motivation:
