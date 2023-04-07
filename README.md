@@ -43,7 +43,7 @@
 
 ## 🌐 Motivation:
 <div>
-  <strong style="color:red">Check out my youtube channel and give me a click on subscribe button else you will get 1000 years of CURSE!!!!☠️💀</strong>
+  <strong style="color:red">Click Here!! Check out my youtube channel and give me a click on subscribe button else you will get 1000 years of CURSE!!!!☠️💀</strong>
   <br>
   <br>
   <div align="">
