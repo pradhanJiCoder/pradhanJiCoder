@@ -1,6 +1,8 @@
-<img align="right" alt="image" src="./image.png" width="300" height="300" />
 
 # 💫 About Me:
+![anim](https://th.bing.com/th/id/R.4689af4f4bcf68c3d1e7e099533758e4?rik=En%2bm4KdgVbT8Yg&riu=http%3a%2f%2f2.bp.blogspot.com%2f-4-zJYIobzdc%2fT6Z5bFIbF-I%2fAAAAAAAAGmY%2f8thlqDQEsEI%2fs1600%2fanimated%2bpicture%2b(12).gif&ehk=7LhzC1jdwR4XXt0NcHaw5QRH77khoF9y%2fVKvFQ%2bAj%2bY%3d&risl=&pid=ImgRaw&r=0
+);
+<img align="right" alt="image" src="./image.png" width="300" height="300" />
 
 
 <h1 align= "">Hi💕, I'm Balram</h1>
@@ -36,14 +38,16 @@
 <br>
 
 <p align="">
- <a href="https://pradhanJiCoder.bio.link/" target="_blank"><img alt="" src="https://img.shields.io/badge/Bio.Link-000?logo=biolink&logoColor=12&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://pradhanJiCoder-portfolio-one.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+ <!-- <a href="https://pradhanJiCoder.bio.link/" target="_blank"><img alt="" src="https://img.shields.io/badge/Bio.Link-000?logo=biolink&logoColor=12&style=for-the-badge" style="vertical-align:center" /></a> -->
+<!-- <a href="https://pradhanJiCoder-portfolio-one.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> -->
 <a href="https://pradhanJiCoder.hashnode.dev/" target="_blank"><img alt="" src="https://img.shields.io/badge/Blogs-000?logo=hashnode&logoColor=blue&style=for-the-badge" style="vertical-align:center-width:300px" /></a></p>
 
 
 ## 🌐 Motivation:
 <div>
-  <strong style="color:red">Check out my youtube channel and give me a click on subscribe button else you will get 1000 years of CURSE!!!!☠️💀</strong>
+  <strong style="color:red">Your one subscription may help me doing more and more, I just wanna earn and feed the one who starving.
+  <br>
+  Check out my youtube channel and give me a click on subscribe button and be a part of Kind Act towards society.</strong>
   <br>
   <br>
   <div align="">
@@ -61,6 +65,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python)
 
 
@@ -108,9 +113,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhanJiCoder&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/pradhanJiCoder/pradhanJiCoder/blob/output/github-contribution-grid-snake.svg">
-</p>
+</p> -->
 
 <!-- ### ✍️ Random Dev Quote
 <br>
